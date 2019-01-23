@@ -1,5 +1,3 @@
-//2019-01-23
-
 n = int(input())
 m = int(input())
 
